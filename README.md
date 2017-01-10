@@ -8,3 +8,6 @@ install requirements:
 Then open http://127.0.0.1:8000/blog/ with your browser.
 
 Writing with Python 3.5
+
+![img1](demo/demo1.png)
+![img2](demo/demo2.png)
